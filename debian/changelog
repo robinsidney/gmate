@@ -1,0 +1,238 @@
+gedit-gmate (0.11~uorppa0) quantal; urgency=low
+  * Add DokuWiki syntax.
+  * Add AsciiDoc syntax.
+  * Improve Stylus syntax.
+  * Add Tomorrow theme.
+  * Update Folding plugin from alanhamlett fork.
+  * Add Portugese keywords to Cucumer.
+
+ -- Andrey Sitnik <andrey@sitnik.ru>  Wed, 13 Feb 2013 20:29:06 +0400
+
+gedit-gmate (0.10~uorppa7) quantal; urgency=low
+  * Add line_tools plugin.
+  * Add code folding plugin.
+  * Fix ZenCoding and SnapOpen conflict.
+  * Highlight jade templates.
+  * Add test asserts to groovy syntax.
+  * Remove groovy++.
+
+ -- Andrey Sitnik <andrey@sitnik.ru>  Thu, 11 Oct 2012 23:53:07 +1100
+
+gedit-gmate (0.10~uorppa6) oneiric; urgency=low
+  * Add Zen Conding plugin to gedit 3.
+
+ -- Andrey Sitnik <andrey@sitnik.ru>  Mon, 05 Mar 2012 05:58:25 +0400
+
+gedit-gmate (0.10~uorppa5) oneiric; urgency=low
+  * Move plugins to subdirs.
+  * Fix background color for selection in Wombat style.
+  * Add “do” keyword to CoffeeScript.
+
+ -- Andrey Sitnik <andrey@sitnik.ru>  Fri, 23 Dec 2011 08:58:48 +0700
+
+gedit-gmate (0.10~uorppa4) oneiric; urgency=low
+  * Rewrite build script to support Restore Tab plugin.
+
+ -- Andrey Sitnik <andrey@sitnik.ru>  Fri, 18 Nov 2011 02:01:51 +0900
+
+gedit-gmate (0.10~uorppa2) oneiric; urgency=low
+  * Add dependences for Restore Tabs.
+
+ -- Andrey Sitnik <andrey@sitnik.ru>  Thu, 17 Nov 2011 21:52:04 +0900
+
+gedit-gmate (0.10~uorppa1) oneiric; urgency=low
+  * Add Snapopen plugin for gedit 3.
+  * Add Whitespace Terminator plugin for gedit3.
+  * Add Smart Highlight plugin for gedit3.
+  * Add Restore Tabs plugin for gedit3
+  * Add Pair Char Completion plugin for gedit3.
+  * Add TabSwitch plugin for gedit 3.
+  * Fix install script for gedit3.
+  * Fix factorygirl snippets.
+  * Add yet another railscasts style.
+  * Updated and improved rubyonrails snippets.
+
+ -- Andrey Sitnik <andrey@sitnik.ru>  Tue, 15 Nov 2011 14:06:33 +0700
+
+gedit-gmate (0.10~uorppa0) oneiric; urgency=low
+  * Support for gedit 3.
+
+ -- Andrey Sitnik <andrey@sitnik.ru>  Sun, 02 Oct 2011 02:20:19 +0400
+
+gedit-gmate (0.9.20~uorppa0) natty; urgency=low
+  * Add Highlight Edited Lines plugin.
+  * Add Text Map plugin.
+  * Add Simple Folding plugin.
+  * Add Multi Terminal plugin.
+  * Add MIME detection for RABL templetes.
+  * Add JS support to RHTML highlight.
+  * Add 'smart def' snippet for python.
+  * Fix rspec:capybara:background snippet.
+
+ -- Andrey Sitnik <andrey@sitnik.ru>  Wed, 28 Sep 2011 23:31:15 +0400
+
+gedit-gmate (0.9.19~uorppa0) natty; urgency=low
+  * Replace plugin “Align” by “Align columns”.
+  * Add Zoom plugin.
+  * Add licenses snippets.
+  * Add snippets for Django.
+  * Add rspec capybara snippets: feature, background and scenario.
+  * Fix quote escape in CoffeeScript highlighting.
+  * Fixed typo in Cucumber language file.
+
+ -- Andrey Sitnik <andrey@sitnik.ru>  Thu, 30 Jun 2011 13:06:30 +0400
+
+gedit-gmate (0.9.18~uorppa0) natty; urgency=low
+  * Update File Search plugin to use German, French and Russian localization.
+  * Add Indent Converter plugin.
+  * Add .gemspec to Ruby MIME type.
+  * Improved CoffeeScript support.
+  * Add Haml to Smart Indent config.
+  * Fix HTML, XML and JS tab size in Smart Indent config.
+
+ -- Andrey Sitnik <andrey@sitnik.ru>  Sun, 29 May 2011 13:23:20 +0400
+
+gedit-gmate (0.9.17~uorppa0) natty; urgency=low
+  * Add Reopen Tabs plugin.
+  * Update Gemini plugin to support gedit 2.30.3.
+  * Update Class Browser plugin.
+  * Fix Apache Conf detection.
+  * Add highlighting for Slim templates.
+  * Add Pythonic and Frill themes.
+  * Fix Railscasts theme.
+  * Detect Thorfile as Ruby file.
+  * Fix Haml and Sass name in syntax files.
+
+ -- Andrey Sitnik <andrey@sitnik.ru>  Sat, 14 May 2011 21:00:36 +0800
+
+gedit-gmate (0.9.16~uorppa0) natty; urgency=low
+  * Add Solarized theme.
+  * Update File Search plugin.
+  * Fix File In Project plugin.
+  * Add Gemfile as Ruby MIME-type.
+  * Fix the picture path of TODO-list plugin.
+  * Fix Completion plugin – remove catch of Tab key.
+  * Fix Smart Indent plugin to use defaults tabs prefs from global conf and
+    no rewrite him.
+  * Fix Smart Indent plugin to don’t ignore gedit setting “use tabs”.
+  * Fix Gemini backward compatibility.
+
+ -- Andrey Sitnik <andrey@sitnik.ru>  Sat, 23 Apr 2011 11:53:37 +0400
+
+gedit-gmate (0.9.15~uorppa0) maverick; urgency=low
+
+  * Update classbrowser
+  * Add exuberant-tags to dependency
+  * Fix bugs in gemini, remove "<" and ">" for completion
+  * Fix bugs in find-in-project
+
+ -- Andrew Liu <andrewliu33@gmail.com>  Wed, 29 Dec 2010 18:26:48 +0800
+
+gedit-gmate (0.9.14~uorppa0) lucid; urgency=low
+
+  * Add Lastdoc plugin.
+  * Add File Search plugin.
+  * Re-add Gedit Open File.
+  * Update FuzzyOpen to 1.3.2.
+  * Add syntax highlight for Apache config.
+
+ -- Andrey Sitnik <andrey@sitnik.ru>  Tue, 30 Nov 2010 00:05:35 +0300
+
+gedit-gmate (0.9.13~uorppa0) lucid; urgency=low
+
+  * Add Rubycius theme.
+  * Add CoffeeScript, SCSS support.
+  * Add encoding plugin.
+  * Add find-in-project plugin for seaching in project.
+  * Update FuzzyOpen to 1.3.1.
+
+ -- Andrew Liu <andrewliu33@gmail.com>  Wed, 21 Sep 2010 11:28:23 +0800
+
+gedit-gmate (0.9.12~uorppa0) lucid; urgency=low
+
+  * Add FuzzyOpen plugin and remove similar plugins to open files.
+  * Disable spell-check for code in SASS, HAML, RHTML, Rails and YAML.
+  * A lot of fixes for SASS.
+  - Add snippet for gem specification.
+  - Prevent suggestion during key commands on OS X.
+  - Allow return key to complete words if user has moved selection up or down.
+  - Fix Smart Indent configuration in Fedora 13.
+
+ -- Andrey Sitnik <andrey@sitnik.ru>  Wed, 01 Sep 2010 16:12:53 +0400
+
+gedit-gmate (0.9.11~uorppa0) lucid; urgency=low
+
+  * Update Zen Coding plugin.
+  * Update Gedit Open File plugin.
+  * Update SASS highlight for new syntax.
+  * Add new color scheme Flarp.
+
+ -- Andrey Sitnik <andrey@sitnik.ru>  Thu, 20 May 2010 19:13:31 +0400
+
+gedit-gmate (0.9.10~uorppa0) lucid; urgency=low
+
+  * Add Find Open plugin.
+  * Rails extract partial can use HAML.
+  * New Rails snippets.
+  * GConf support.
+
+ -- Andrey Sitnik <andrey@sitnik.ru>  Mon, 26 Apr 2010 12:59:48 +0400
+
+gedit-gmate (0.9.9~uorppa0) karmic; urgency=low
+
+  * Add Pastie plugin.
+  * Add an improved Railscasts theme (uses bold for some keywords).
+  * Add an extra option to FindInFiles plugin to filter log/bak files.
+
+ -- Andrey Sitnik <andrey@sitnik.ru>  Mon, 30 Nov 2009 00:31:27 +0300
+
+gedit-gmate (0.9.8~uorppa0) karmic; urgency=low
+
+  * Add Zen Coding plugin.
+  * Add initializer and factory snippets to Ruby.
+
+ -- Andrey Sitnik <andrey@sitnik.ru>  Fri, 27 Nov 2009 23:38:37 +0300
+
+gedit-gmate (0.9.7~aippa0) karmic; urgency=low
+
+  * Merged with Andrey Sitnik branch
+  * Snippets no are installed in global directory
+  * Translate plugins name and description to Russian
+  * Updated railscasts theme to respect font bold configuration
+  * Remove unused shell scripts
+  * Workarround in todo to work with new webkit version.
+  - Added 'g' shortcut to gmate editor
+
+ -- Alexandre da Silva <lexrupy@gmail.com>  Wed, 21 Oct 2009 00:35:00 +0400
+
+gedit-gmate (0.9.6~aippa0) jaunty; urgency=low
+
+  * Add Switch Tab Plugin.
+  * Add gmate script, which can pass directory as the first param.
+  * Add postinst script to create links to gmate and gmate-installsnippets.
+  * Fix rst snippet.
+  * Update plugins to acomplish the new PyInotify.
+
+ -- Andrey Sitnik <andrey@sitnik.ru>  Wed, 21 Oct 2009 00:35:00 +0400
+
+gedit-gmate (0.9.2~aippa0) jaunty; urgency=low
+
+  * Fix dependences to Karmic support.
+
+ -- Andrey Sitnik <andrey@sitnik.ru>  Fri, 16 Oct 2009 21:51:08 +0400
+
+gedit-gmate (0.9.1~aippa1) jaunty; urgency=low
+
+  * Add more Markdown extensions.
+  * More suggar for rspec: before, after, context.
+  * Fixed problem when using a root path with urlescaped chars in todo list
+    plugin.
+
+ -- Andrey Sitnik <andrey@sitnik.ru>  Fri, 09 Oct 2009 23:47:32 +0400
+
+gedit-gmate (0.9.1~aippa0) jaunty; urgency=low
+
+  * Initial release
+
+ -- Andrey Sitnik <andrey@sitnik.ru>  Sun, 14 Sep 2009 06:20:09 +0400
+
